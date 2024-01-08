@@ -1,0 +1,35 @@
+body, h1, ul, p {
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+header {
+    text-align: center;
+    background-color: aliceblue;
+    padding: 15px;
+}
+
+p {
+    line-height: 1.5;
+}
+
+main {
+    padding: 15px;
+}
+
+img {
+    max-height: 400px;
+    display: grid;
+    margin: 0;
+}
+
+.second-item {
+    color: blue;
+}
